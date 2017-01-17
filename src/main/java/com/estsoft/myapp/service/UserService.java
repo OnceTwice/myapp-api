@@ -24,15 +24,6 @@ public class UserService {
 		list.add( user );
 		
 		user = new User();
-		user.setId( 2L );
-		user.setName( "홍마오" );
-		user.setPhone( "010-4761-6934" );
-		user.setEmail( "maohong@gmail.com" );
-		user.setProfilePic( "https://scontent.xx.fbcdn.net/v/t1.0-1/c13.13.166.166/s160x160/562300_158663031006306_366519961_n.jpg?oh=c0cc8d2bbd3c32b410ae9efbef65fa50&oe=57DD538F" );
-		user.setStatus( 1 );
-		list.add( user );
-		
-		user = new User();
 		user.setId( 3L );
 		user.setName( "큰형님" );
 		user.setPhone( "010-4761-6934" );
@@ -42,24 +33,6 @@ public class UserService {
 		list.add( user );
 	
 		user = new User();
-		user.setId( 4L );
-		user.setName( "김슬기" );
-		user.setPhone( "010-4761-6934" );
-		user.setEmail( "kimsmu@gmail.com" );
-		user.setProfilePic( "https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/1044955_138730762999533_171992422_n.jpg?oh=1aa35ae7699d63fdaf12bba63b379841&oe=58C3AD1D" );
-		user.setStatus( 1 );
-		list.add( user );
-
-		user = new User();
-		user.setId( 5L );
-		user.setName( "김헐크" );
-		user.setPhone( "010-4761-6934" );
-		user.setEmail( "hulk@gmail.com" );
-		user.setProfilePic( "https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/562300_158663031006306_366519961_n.jpg?oh=6d97ede4a6272bd4352b79ac5400d75a&oe=58C66151" );
-		user.setStatus( 1 );
-		list.add( user );
-		
-		user = new User();
 		user.setId( 6L );
 		user.setName( "이윤임" );
 		user.setPhone( "010-4761-6934" );
@@ -68,33 +41,6 @@ public class UserService {
 		user.setStatus( 1 );
 		list.add( user );
 
-		user = new User();
-		user.setId( 7L );
-		user.setName( "홍네모" );
-		user.setPhone( "010-4761-6934" );
-		user.setEmail( "recthong@gmail.com" );
-		user.setProfilePic( "https://scontent.xx.fbcdn.net/v/t1.0-9/1186118_146279165582758_1233784670_n.jpg?oh=1b583df1824869960964ff168f30705f&oe=57CF07BE" );
-		user.setStatus( 1 );
-		list.add( user );
-		
-		user = new User();
-		user.setId( 8L );
-		user.setName( "이우보" );
-		user.setPhone( "010-4761-6934" );
-		user.setEmail( "jingjing@gmail.com" );
-		user.setProfilePic( "https://scontent.xx.fbcdn.net/v/t1.0-9/945025_125511240992884_1798446283_n.jpg?oh=c1c1ac824b1d2ccc08d34d1adb6fbe8d&oe=580E25AF" );
-		user.setStatus( 1 );
-		list.add( user );
-		
-		user = new User();
-		user.setId( 9L );
-		user.setName( "박빵" );
-		user.setPhone( "010-4761-6934" );
-		user.setEmail( "ppang@gmail.com" );
-		user.setProfilePic( "https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/15056421_1118764964904759_3487310309091770003_n.jpg?oh=0df3323729e239d1d9602715e3243557&oe=58F536EB" );
-		user.setStatus( 1 );
-		list.add( user );
-		
 		user = new User();
 		user.setId( 10L );
 		user.setName( "드림웍스" );
